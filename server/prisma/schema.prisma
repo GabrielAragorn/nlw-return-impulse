@@ -1,0 +1,24 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Feedback {
+  //primarykey below
+  //uuid = Universal Unique ID
+  id String @id @default(uuid())
+
+  type       String
+  comment    String
+  //? means that screenshot is not mandatory, can be null
+  screenshot String?
+
+  @@map("Feedbacks")
+}
