@@ -1,4 +1,91 @@
 <div id="top"></div>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+
+
+<!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
+
+## 🛰️ Built With
+
+* [Vite](https://tailwindcss.com/)
+* [React.js & React Hooks](https://reactjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Phosphor React](https://www.npmjs.com/package/phosphor-react)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Headless UI](https://headlessui.dev/)
+* [Axios](https://axios-http.com/)
+* [Node.js](https://nodejs.org/en/)
+* [ExpressJS](https://www.npmjs.com/package/express)
+* [Prisma](https://www.prisma.io/)
+* [Jest](https://jestjs.io/)
+
+
+<!-- LAYOUT -->
+## 📐 Layout
+You can visualize the layout of this project made by Rocketseat through this [link](https://www.figma.com/file/fuTrQBTUJSWDoajvWOD1CD/Feedback-Widget-(Community)?node-id=100%3A2114). A [Figma](https://www.figma.com/) account it's necessary to access.
+
+
+
+<!-- GETTING STARTED -->
+## ⚙️ Getting Started
+Clone the project on your wished directory:
+  ```sh
+  git clone https://github.com/GabrielAragorn/nlw-return-impulse-web
+  ```
+  Them install all the dependecies of the project using the command below:
+  ```sh
+  npm install npm@latest -g
+  ```
+  
+  ### 🚀 Launching
+  
+  After the installation has been done, use the following command to run the front-end the web directory:
+ ```sh
+  cd web
+  npm run dev
+  ```
+  To run the back-end, use the following command:
+   ```sh
+  cd server
+  npm run dev
+  ```
+
+<!-- ROADMAP -->
+## 🔭 Roadmap
+
+- [x] Develop front-end
+- [x] Add accessibilty in front-end 
+- [x] Develop back-end
+- [X] Create database using prisma 
+- [x] Add SOLID patterns 
+- [x] Link front-end with backend and deploy both
+- [ ] Add dark-mode
+- [ ] Mobile app 
+
+<!-- CONTACT -->
+## 🧑‍💻 Author 
+#### 👨🏼‍💻 Gabriel Aragão 
+* Linkedin: [@Gabriel Aragão](https://www.linkedin.com/in/gabrielaragorn/)
+* E-mail: [@gabrielarago4@gmail.com](gabrielarago4@gmail.com)
+* Github: [@GabrielAragorn](https://github.com/GabrielAragorn/)
+
+## 🍻 Credits
+
+Project and layout design was provided by [Rocketseat](https://www.rocketseat.com.br/). ❤️
+
+## :handshake: Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## 👨🏿‍🚀 Show your support
+
+Give a ⭐️ if you like this project!
+
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -70,57 +157,6 @@
 </details>
 -->
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
-
-## 🛰️ Built With
-
-* [Vite](https://tailwindcss.com/)
-* [React.js](https://reactjs.org/)
-* [Tailwind CSS](https://tailwindcss.com/)
-* [Headless UI](https://headlessui.dev/)
-* [Node.js](https://nodejs.org/en/)
-
-
-<!-- LAYOUT -->
-## 📐 Layout
-You can visualize the layout of this project made by Rocketseat through this [link](https://www.figma.com/file/fuTrQBTUJSWDoajvWOD1CD/Feedback-Widget-(Community)?node-id=100%3A2114). A [Figma](https://www.figma.com/) account it's necessary to access.
-
-
-
-<!-- GETTING STARTED -->
-## 🚀 Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 <!--
 ## Installation
 
@@ -156,17 +192,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Develop front-end
-- [x] Add accessibilty in front-end 
-- [x] Develop back-end
-- [X] Create database using prisma 
-- [x] Add SOLID patterns 
-- [x] Link front-end with backend and deploy both
-- [ ] Add dark-mode
-- [ ] Mobile app 
 
 <!--
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
@@ -192,18 +217,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 -->
-
-
-
-
-
-
-<!-- CONTACT -->
-## 🧑‍💻 Developers 
-
-👨🏼‍💻 Gabriel Aragão - [@Linkedin](https://www.linkedin.com/in/gabrielaragorn/) - gabrielarago4@gmail.com
-
-Project Link: [https://github.com/GabrielAragorn/nlw-return-impulse-web](https://github.com/GabrielAragorn/nlw-return-impulse-web)
 
 
 <!-- LICENSE 
