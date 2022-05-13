@@ -5,7 +5,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project was developed during the 6º edition of Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
+This project was developed during the 8º edition of Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
 Feedget is a widget component that can be use in any application. In this application, Feedget was used to get feedbacks like bugs, ideas and others feedbacks from client. [Click here](https://nlw-return-impulse-web-ochre.vercel.app/) to acess Feedget.
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
