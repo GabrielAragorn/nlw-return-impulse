@@ -33,10 +33,12 @@ You can visualize the layout of this project made by Rocketseat through this [li
 
 <!-- GETTING STARTED -->
 ## ⚙️ Getting Started
+
 Clone the project on your wished directory:
   ```sh
   git clone https://github.com/GabrielAragorn/nlw-return-impulse-web
   ```
+  To run the following commands, you'll to install [Node.js](https://nodejs.org/en/download/).
   Them install all the dependecies of the project using the command below:
   ```sh
   npm install npm@latest -g
